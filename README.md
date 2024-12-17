@@ -1,2 +1,2 @@
-# Chat_boot
+# Chat_bot
 Implement an interactive chatbot
